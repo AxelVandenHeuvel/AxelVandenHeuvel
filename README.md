@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel VandenHeuvel</h1>
 <h3 align="center">A passionate computer science student @ CU Boulder</h3>
 
-- 🔭 I’m currently working on [AI Models for Deep-Space Spacecrafts](https://github.com/ksuoo/NASA-JPL-Capstone) [No BS Lift Tracker App](https://github.com/AxelVandenHeuvel/axels-rep-tracker)
+- 🔭 I’m currently working on [AI Models for Deep-Space Spacecrafts](https://github.com/ksuoo/NASA-JPL-Capstone) | [No BS Lift Tracker App](https://github.com/AxelVandenHeuvel/axels-rep-tracker)
 
 - 📫 How to reach me **axelvandenhe@gmail.com**
 
