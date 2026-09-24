@@ -7,7 +7,7 @@
 ### About Me
 - axelvh.dev
 - Python, TS/JS
-- Building with **AI tools & agents**: Claude, Codex, tool-calling, and MCP
+- AI tools & agents
 - Best way to reach me: axelvandenhe[at]gmail
 
 ---
